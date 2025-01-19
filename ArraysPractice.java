@@ -28,8 +28,7 @@ public class ArraysPractice {
                     System.out.println(daysOfWeek[j] + ": " + tempList[j]);
                 }
                 // Continue the loop without incrementing `i`
-                i--; 
-                continue;
+                i--;
             }
             
             // Parse and store temperature. 
